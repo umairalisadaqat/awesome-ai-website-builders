@@ -16,6 +16,7 @@
 | [Framer AI](https://framer.com) | AI page generation inside Framer's design tool | $5+/mo | Framer |
 | [Durable](https://durable.co) | 30-second AI sites aimed at service businesses | $12+/mo | Proprietary |
 | [Base44](https://base44.com) | Prompt → app builder (acquired by Wix) | Credit-based | Proprietary |
+| [Helmpages](https://helmpages.com/) | AI website builder for independent professionals; sites are built and kept up to date by sending a message. | Paid, 14-day free trial | Proprietary |
 
 ## How to choose
 
